@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2023%20mins-blue)
 <!--
 **AnimeruFR/AnimeruFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
