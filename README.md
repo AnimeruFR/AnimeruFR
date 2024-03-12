@@ -4,20 +4,20 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   3 hrs               ████████████████░░░░░░░░░   62.21 % 
-XML                      1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+Kotlin                   2 hrs 58 mins       ████████████████░░░░░░░░░   62.00 % 
+XML                      1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Shrinker Config File     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
