@@ -4,16 +4,20 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-672.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-673.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 51 mins       █████████████░░░░░░░░░░░░   51.26 % 
+HTML                     1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+CSS                      1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
