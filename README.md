@@ -10,10 +10,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
