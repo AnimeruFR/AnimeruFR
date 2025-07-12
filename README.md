@@ -10,10 +10,10 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
