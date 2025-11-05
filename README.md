@@ -6,6 +6,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     1 hr 36 mins        ███████████████░░░░░░░░░░   58.66 % 
+TypeScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+SQL                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+
+💻 Operating System: 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 <!--
