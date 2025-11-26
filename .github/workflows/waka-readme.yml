@@ -2,14 +2,11 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Mise à jour toutes les 6h
-  workflow_dispatch:         # Lancer manuellement
-  push:
-    branches:
-      - main
+    - cron: "0 * * * *"   # toutes les heures
+  workflow_dispatch:
 
 permissions:
-  contents: write   # Permission OBLIGATOIRE pour corriger l’erreur 403
+  contents: write
 
 jobs:
   update-readme:
@@ -22,10 +19,9 @@ jobs:
       - name: Update README with WakaTime Metrics
         uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Options d’affichage
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
@@ -41,18 +37,10 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_UPDATED_DATE: "True"
 
-          # Section du README
           SECTION_NAME: "waka"
-
-          # Branches
           PULL_BRANCH_NAME: "main"
           PUSH_BRANCH_NAME: "main"
 
-          # Localisation FR
-          LOCALE: "fr"
-          UPDATED_DATE_FORMAT: "%d/%m/%Y"
-
-          # Infos commit automatiques
+          COMMIT_BY_ME: "True"
           COMMIT_SINGLE: "True"
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "update: WakaTime stats updated"
+          COMMIT_MESSAGE: "update: WakaTime stats"
