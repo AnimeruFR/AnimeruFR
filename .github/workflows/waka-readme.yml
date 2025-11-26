@@ -1,18 +1,21 @@
-name: Update WakaTime Section
+name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Tous les jours
+    - cron: "0 0 * * *"   # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update README with WakaTime Metrics
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: athul/waka-readme@master
+      - name: Update WakaTime section
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -21,3 +24,11 @@ jobs:
           LANG_COUNT: 10
           TIME_RANGE: last_7_days
           SECTION_NAME: waka
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update WakaTime metrics"
+          git push
