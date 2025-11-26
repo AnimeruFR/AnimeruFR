@@ -1,38 +1,73 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm AnimeruFR</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnimeruFR&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Code%20Time-Auto--Updated-blue" alt="Code Time"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **full-stack web development**
+- 🌱 Learning **C, TypeScript, Node.js, React, SQL**
+- 💻 Passionate about **system programming & backend**
+- 🎮 Hobbies: gaming, reverse engineering & coding experiments
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,c,python,html,css" />
+</p>
+
+### **Tools & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,express,prisma" />
+</p>
+
+### **Software & Environment**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+</p>
+
+---
+
+## 📊 Weekly Coding Stats (Auto-Updated)
+
+> 📌 *Ce bloc est 100% généré automatiquement grâce à WakaTime et GitHub Actions.*
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2045%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
-TypeScript               2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
-💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-
 <!--END_SECTION:waka-->
-<!--
-**AnimeruFR/AnimeruFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+### 🔥 Contributions
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnimeruFR&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📦 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnimeruFR&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeruFR&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Links
+
+- 🌐 WakaTime Profile: https://wakatime.com/@AnimeruFR  
+- 💼 GitHub: https://github.com/AnimeruFR  
+
+---
+
+<p align="center">🔥 Optimized profile README • Auto-updated • Clean • Modern</p>
