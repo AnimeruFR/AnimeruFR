@@ -2,36 +2,51 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update README with WakaTime Metrics
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-      - name: Generate WakaTime Stats
-        uses: athul/waka-readme@master
+      - name: Run WakaTime Readme Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 10
-          SECTION_NAME: waka
 
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add .
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "📊 Update WakaTime metrics"
-            git push
-          fi
+          # ────────── Commit settings ──────────
+          COMMIT_MSG: "📈 Auto-update WakaTime stats"
+          COMMIT_USERNAME: "github-actions"
+          COMMIT_EMAIL: "github-actions@github.com"
+          COMMIT_BY_ME: "False"
+
+          # ────────── Display options (optimized) ──────────
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "False"
+
+          # ────────── Aesthetic Improvements ──────────
+          TITLE_COLOR: "4FC3F7"
+          TEXT_COLOR: "E3E3E3"
+          BACKGROUND_COLOR: "1E1E1E"
+          ICON_COLOR: "42A5F5"
+          BORDER_COLOR: "1E88E5"
