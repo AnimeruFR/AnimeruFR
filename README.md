@@ -1,91 +1,125 @@
-<h1 align="center">Hi there 👋 I'm AnimeruFR</h1>
+<h1 align="center">Hi 👋 I'm AnimeruFR</h1>
+<h3 align="center">Full-stack Web Developer • BUT Computer Science Student (IUT Lyon 1)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnimeruFR&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Code%20Time-Auto--Updated-blue" alt="Code Time"/>
+  <a href="https://animeru.fr">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/erwan-corbin">LinkedIn</a> •
+  <a href="https://instagram.com">Instagram</a> •
+  <a href="https://github.com/AnimeruFR">GitHub</a> •
+  <a href="https://discord.com">Discord</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ☀️ About Me
 
-- 🔭 Currently working on **full-stack web development**
-- 🌱 Learning **C, TypeScript, Node.js, React, SQL**
-- 💻 Passionate about **system programming & backend**
-- 🎮 Hobbies: gaming, reverse engineering & coding experiments
+I am a 3rd-year Computer Science student at **IUT Lyon 1**, currently focusing on full-stack development and business applications (ERP/CRM).  
+I love turning functional needs into **reliable, documented, maintainable applications**.
 
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,c,python,html,css" />
-</p>
-
-### **Tools & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,express,prisma" />
-</p>
-
-### **Software & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
-</p>
+✨ Passionate about:  
+- Web development  
+- Software engineering  
+- Clean architecture & code quality  
+- UI/UX consistency  
+- ERP/CRM logic  
+- Real-world problem solving  
 
 ---
 
-## 📊 Weekly Coding Stats (Auto-Updated)
+## 👤 Who Am I?
 
-> 📌 *Ce bloc est 100% généré automatiquement grâce à WakaTime et GitHub Actions.*
+My name is **Erwan**, full-stack developer in training.  
+I will pursue further studies from **September 2025** to deepen my expertise and prepare for my professional future.
+
+---
+
+# 🛠️ Hard Skills
+
+### **Web Development**
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `Angular` • `Vue` • `Tailwind CSS`  
+`PHP` • `Symfony` • `Spring` • `Vite`
+
+### **Software / Modeling**
+`Python` • `C` • `Java`
+
+### **Databases & Data**
+`MySQL` • `MongoDB` • `PostgreSQL` • `SQLite`
+
+### **Systems & Networking**
+`Bash` • `Linux` • `Windows`
+
+### **Tools & Productivity**
+`Git` • `Figma` • `Notion` • `VS Code`
+
+---
+
+# 🤝 Soft Skills
+
+- Teamwork & communication  
+- Strong rigor (testing, QA, validation)  
+- Autonomy & organization  
+- Clear documentation & knowledge sharing  
+- Client orientation & support  
+- Curiosity & continuous learning  
+- Analytical thinking & problem solving  
+
+---
+
+# 💼 Experience
+
+### **ERP/CRM Developer – Divy (Francheville, 69) — 2024–2025**
+- Custom Divalto / Weavy developments  
+- ERP ⇄ CRM flow reliability & UX improvement  
+- Delivery, deployment & technical support  
+
+### **Web Developer Intern – EDF (CNPE Saint-Alban) — Apr–Jul 2024**
+- Accessibility audit (RGAA) of internal applications  
+- Prototyping & recommendations  
+
+### **Logistics — La Vie Claire (Montagny) — Aug 2024–present**
+- Orders, shelves, logistics  
+
+### **Crew Member — McDonald's (Pierre-Bénite) — Since Oct 2024**
+- Closing tasks & front-desk preparation  
+
+---
+
+# 🎓 Education
+
+### **BUT Computer Science — IUT Lyon 1 (2022–2025)**
+- Web, software, system, DB, networks  
+- Agile project management, teamwork  
+
+### **Baccalaureate (AB) — Champagnat High School (2019–2022)**
+- NSI, Mathematics, Physics  
+
+---
+
+# 🌍 Languages & Interests
+
+- English — B2  
+- German — A2  
+- Japanese — A1  
+
+Interests:  
+🇯🇵 Japanese culture • ✈️ Travel (Japan project)  
+🎓 Student involvement — IUT CS Student Union
+
+---
+
+# 📬 Want to talk?
+
+💬 Open to discussions — tech, projects, opportunities!  
+📫 Email: *(add yours if you want)*  
+🌐 Portfolio: https://animeru.fr  
+
+---
+
+# 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 18 November 2025 - To: 25 November 2025
-
-Total Time: 4 hrs 37 mins
-
-TypeScript   2 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.18 %
-JSON         1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-SQL          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-C            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
-## 📈 GitHub Stats
-
-### 🔥 Contributions
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnimeruFR&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📦 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnimeruFR&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeruFR&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔗 Links
-
-- 🌐 WakaTime Profile: https://wakatime.com/@AnimeruFR  
-- 💼 GitHub: https://github.com/AnimeruFR  
-
----
-
-<p align="center">🔥 Optimized profile README • Auto-updated • Clean • Modern</p>
+<p align="center">🚀 Proudly auto-updated • Powered by WakaTime & GitHub Actions</p>
