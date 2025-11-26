@@ -13,28 +13,26 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
-      - name: Run WakaTime Readme Stats
+      - name: Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           # ────────── Commit settings ──────────
-          COMMIT_MSG: "📈 Auto-update WakaTime stats"
+          COMMIT_MESSAGE: "📊 Auto-update WakaTime Stats"
           COMMIT_USERNAME: "github-actions"
           COMMIT_EMAIL: "github-actions@github.com"
           COMMIT_BY_ME: "False"
 
-          # ────────── Display options (optimized) ──────────
+          # ────────── Display options ──────────
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
 
           SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
 
           SHOW_COMMIT: "False"
@@ -43,10 +41,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
-
-          # ────────── Aesthetic Improvements ──────────
-          TITLE_COLOR: "4FC3F7"
-          TEXT_COLOR: "E3E3E3"
-          BACKGROUND_COLOR: "1E1E1E"
-          ICON_COLOR: "42A5F5"
-          BORDER_COLOR: "1E88E5"
