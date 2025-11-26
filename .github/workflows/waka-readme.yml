@@ -2,21 +2,19 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"   # toutes les heures
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-readme:
+    name: Update README with WakaTime Metrics
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update README with WakaTime Metrics
+      - name: Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,23 +22,22 @@ jobs:
 
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+
+          # Désactivé car nécessite la permission Traffic (que tu n’as pas)
+          SHOW_PROFILE_VIEWS: "False"
+
           SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_UPDATED_DATE: "True"
 
-          SECTION_NAME: "waka"
-          PULL_BRANCH_NAME: "main"
-          PUSH_BRANCH_NAME: "main"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "False"
 
-          COMMIT_BY_ME: "True"
-          COMMIT_SINGLE: "True"
-          COMMIT_MESSAGE: "update: WakaTime stats"
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "⚡ Update WakaTime Stats"
