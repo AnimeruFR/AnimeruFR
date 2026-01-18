@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -126,12 +126,11 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 27 mins        ████████████████░░░░░░░░░   64.63 % 
-SQL                      46 mins             █████████░░░░░░░░░░░░░░░░   34.33 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 14 mins             ████████████████████░░░░░   80.74 % 
+Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 
