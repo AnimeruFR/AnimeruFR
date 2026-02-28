@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -127,7 +127,7 @@ Interests:
 ```text
 💬 Programming Languages: 
 C                        3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
-PHP                      2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+PHP                      2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
 Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 Twig                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 XML                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
