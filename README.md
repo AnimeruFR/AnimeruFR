@@ -126,10 +126,12 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-SQL                      4 mins              █████████████████████████   100.00 % 
+C                        1 hr 29 mins        ████████████████████████░   95.13 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 
