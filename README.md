@@ -126,12 +126,10 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 29 mins        █████████████████████████   98.45 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 
