@@ -126,10 +126,14 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             ████████████░░░░░░░░░░░░░   46.58 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+XML                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 
