@@ -126,14 +126,14 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Other                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JavaScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-SQL                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+TypeScript               2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+PHP                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+SQL                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
