@@ -126,14 +126,10 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-Other                    10 mins             █████████████░░░░░░░░░░░░   51.71 % 
-Text                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
