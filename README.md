@@ -128,37 +128,16 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-JSON                     55 mins             ███████████░░░░░░░░░░░░░░   45.55 % 
-Python                   52 mins             ███████████░░░░░░░░░░░░░░   42.97 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (87.6%)
-
-✍️ 6,272 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 340,662 Input Tokens, 139,118 Output Tokens
-
-💵 $20.83 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Opus                     6,273 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 391 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
