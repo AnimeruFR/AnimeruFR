@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2030%20mins-blue?style=flat)
 
@@ -128,10 +128,11 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     8 mins              ████████████████████████░   97.22 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
