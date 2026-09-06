@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2030%20mins-blue?style=flat)
 
@@ -128,17 +128,36 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-JSON                     8 mins              ████████████████████████░   97.22 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Markdown                 38 mins             ███████████░░░░░░░░░░░░░░   44.66 % 
+Docker                   35 mins             ██████████░░░░░░░░░░░░░░░   40.85 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (14.2%)
+
+✍️ 1,760 lines written by AI, 24 lines written by hand (98.65% AI-written)
+
+🔤 56,292 Input Tokens, 18,455 Output Tokens
+
+💵 $1.28 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     1,760 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.65% of written lines came from AI
+📚 Verbose Prompter — average 5,690 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
 ```
 
 
