@@ -118,9 +118,9 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384.41%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -128,36 +128,37 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 mins             ███████████░░░░░░░░░░░░░░   44.66 % 
-Docker                   35 mins             ██████████░░░░░░░░░░░░░░░   40.85 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   40.04 % 
+Markdown                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Docker                   35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (14.2%)
+⏱ AI Coding Time: 1 hr 33 mins (55.8%)
 
-✍️ 1,760 lines written by AI, 24 lines written by hand (98.65% AI-written)
+✍️ 4,835 lines written by AI, 24 lines written by hand (99.51% AI-written)
 
-🔤 56,292 Input Tokens, 18,455 Output Tokens
+🔤 1,783,978 Input Tokens, 108,735 Output Tokens
 
-💵 $1.28 Estimated AI Cost This Week
+💵 $34.76 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 13 AI Sessions, 16 AI Prompts
 
-Opus                     1,760 lines         █████████████████████████   100.00 % 
+Opus                     4,835 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 5,690 characters per prompt
+🤖 AI-Driven — 99.51% of written lines came from AI
+📚 Verbose Prompter — average 2,674 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.73% of changed lines were hand-edited
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 
