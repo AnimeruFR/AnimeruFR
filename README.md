@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2014%20mins-blue?style=flat)
 
@@ -128,22 +128,22 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Docker                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Docker                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 💻 Operating System: 
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (60.23%)
+⏱ AI Coding Time: 4 hrs 44 mins (59.79%)
 
-✍️ 5,424 lines written by AI, 355 lines written by hand (93.86% AI-written)
+✍️ 5,424 lines written by AI, 365 lines written by hand (93.69% AI-written)
 
 🔤 2,195,256 Input Tokens, 290,222 Output Tokens
 
@@ -155,10 +155,10 @@ Opus                     5,424 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.86% of written lines came from AI
+🤖 AI-Driven — 93.69% of written lines came from AI
 📚 Verbose Prompter — average 1,948 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 11.69% of changed lines were hand-edited
+🚀 High AI Trust — 11.88% of changed lines were hand-edited
 ```
 
 
