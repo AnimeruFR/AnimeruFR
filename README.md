@@ -118,9 +118,9 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384.41%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -128,36 +128,36 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 11 mins       ██████████████░░░░░░░░░░░   55.63 % 
-Other                    1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Docker                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+YAML                     3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.43 % 
+Other                    1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Docker                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (26.54%)
+⏱ AI Coding Time: 2 hrs 12 mins (29.92%)
 
-✍️ 0 lines written by AI, 419 lines written by hand (0.0% AI-written)
+✍️ 75 lines written by AI, 413 lines written by hand (15.37% AI-written)
 
-🔤 120,014 Input Tokens, 10,212 Output Tokens
+🔤 946,717 Input Tokens, 50,729 Output Tokens
 
-💵 $7.43 Estimated AI Cost This Week
+💵 $14.02 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 35 AI Prompts
+🧠 32 AI Sessions, 45 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     75 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,398 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.37% of written lines came from AI
+📄 Detailed Prompter — average 1,110 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.02% of changed lines were hand-edited
 ```
 
 
