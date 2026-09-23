@@ -128,37 +128,37 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-JSON                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-TypeScript               1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Other                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Docker                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JSON                     2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.96 % 
+TypeScript               1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Docker                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 Operating System: 
-Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (26.95%)
+⏱ AI Coding Time: 2 hrs 8 mins (33.05%)
 
-✍️ 289 lines written by AI, 479 lines written by hand (37.63% AI-written)
+✍️ 289 lines written by AI, 70 lines written by hand (80.5% AI-written)
 
 🔤 2,018,299 Input Tokens, 98,075 Output Tokens
 
 💵 $28.28 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 72 AI Prompts
+🧠 9 AI Sessions, 47 AI Prompts
 
 Opus                     299 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.63% of written lines came from AI
-📄 Detailed Prompter — average 966 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 77.33% of changed lines were hand-edited
+🤖 AI-Driven — 80.5% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 63.76% of changed lines were hand-edited
 ```
 
 
