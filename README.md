@@ -128,22 +128,21 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 mins             ██████████░░░░░░░░░░░░░░░   39.05 % 
-JSON                     28 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+TypeScript               30 mins             █████████████░░░░░░░░░░░░   50.19 % 
+JSON                     18 mins             ████████░░░░░░░░░░░░░░░░░   31.61 % 
+YAML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (31.46%)
+⏱ AI Coding Time: 34 mins (57.54%)
 
-✍️ 124 lines written by AI, 20 lines written by hand (86.11% AI-written)
+✍️ 124 lines written by AI, 5 lines written by hand (96.12% AI-written)
 
 🔤 118,431 Input Tokens, 28,996 Output Tokens
 
@@ -155,10 +154,10 @@ Opus                     124 lines           ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.11% of written lines came from AI
+🤖 AI-Driven — 96.12% of written lines came from AI
 📚 Verbose Prompter — average 4,088 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.51% of changed lines were hand-edited
+🚀 High AI Trust — 3.88% of changed lines were hand-edited
 ```
 
 
