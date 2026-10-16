@@ -128,19 +128,20 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ████████████████████████░   95.47 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+JSON                     3 mins              █████████████░░░░░░░░░░░░   52.01 % 
+TypeScript               3 mins              ███████████░░░░░░░░░░░░░░   45.81 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (80.67%)
+⏱ AI Coding Time: 2 mins (38.71%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
 🔤 31,782 Input Tokens, 2,533 Output Tokens
 
@@ -151,10 +152,10 @@ Windows                  3 mins              ███████████�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 4,808 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
