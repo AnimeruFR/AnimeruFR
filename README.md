@@ -128,34 +128,19 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-JSON                     3 mins              █████████████░░░░░░░░░░░░   52.01 % 
-TypeScript               3 mins              ███████████░░░░░░░░░░░░░░   45.81 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Java                     1 hr 1 min          ███████████████████████░░   93.50 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (38.71%)
-
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
-
-🔤 31,782 Input Tokens, 2,533 Output Tokens
-
-💵 $0.61 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,808 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
