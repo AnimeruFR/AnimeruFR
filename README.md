@@ -124,6 +124,23 @@ Interests:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384.41%20thousand%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     1 hr 1 min          ████████████████████████░   94.43 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+
+💻 Operating System: 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
