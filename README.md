@@ -128,17 +128,37 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 1 min          ████████████████████████░   94.43 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Java                     2 hrs 3 mins        ██████████████████░░░░░░░   73.81 % 
+HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+PlantUML                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 41 mins (24.7%)
+
+✍️ 1,329 lines written by AI, 42 lines written by hand (96.94% AI-written)
+
+🔤 147,580 Input Tokens, 81,072 Output Tokens
+
+💵 $2.72 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Opus                     2,258 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.94% of written lines came from AI
+📝 Concise Prompter — average 113 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.59% of changed lines were hand-edited
 ```
 
 
