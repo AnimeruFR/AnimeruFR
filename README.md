@@ -118,9 +118,9 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384.41%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -128,22 +128,22 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 3 mins        ██████████████████░░░░░░░   73.81 % 
-HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-PlantUML                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     2 hrs 3 mins        ██████████████████░░░░░░░   70.04 % 
+HTML                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+PlantUML                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (24.7%)
+⏱ AI Coding Time: 41 mins (23.44%)
 
-✍️ 1,329 lines written by AI, 42 lines written by hand (96.94% AI-written)
+✍️ 1,329 lines written by AI, 66 lines written by hand (95.27% AI-written)
 
 🔤 147,580 Input Tokens, 81,072 Output Tokens
 
@@ -155,10 +155,10 @@ Opus                     2,258 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.94% of written lines came from AI
+🤖 AI-Driven — 95.27% of written lines came from AI
 📝 Concise Prompter — average 113 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+🚀 High AI Trust — 5.13% of changed lines were hand-edited
 ```
 
 
