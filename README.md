@@ -118,7 +118,7 @@ Interests:
 # 📊 Weekly Coding Activity (Auto-Updated via WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2010%20mins-blue?style=flat)
 
@@ -128,9 +128,9 @@ Interests:
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 3 mins        ██████████████████░░░░░░░   70.04 % 
+Java                     2 hrs 3 mins        ██████████████████░░░░░░░   70.02 % 
 HTML                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-PlantUML                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+PlantUML                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
